@@ -7,3 +7,5 @@ create some problems when the stocks history have large variations in available 
 
 The program does not yet have an option to select start and end dates of the data, and just uses all the close prices that
 are available.
+
+For the script to run you need a version of Python 3.xx with the Pandas and Numpy packages installed.
